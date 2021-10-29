@@ -1,5 +1,9 @@
-# OSP
+# OSH
 
-![GitHub last commit](https://img.shields.io/github/last-commit/O-Schell/SEOS?color=blue&style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/O-Schell/SEOS?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/O-Schell/SEOS?style=flat-square)
+## Origin
+The idea of the "Open Source Hub" (OSH) came to me after I realised that many really good ideas/project were deeply buried and/or underused.
+So I decided to built something...
 
-The "Structural Entity of Open Source" is a project that is aiming to link as most open-source project, to give to both users and dev's the best experience....
+## Goal & Ideas
+I'm building a hub to bring to the spotlight great ideas/project, to help them with the help of the community
+I'm also building a giant network  composed of linked open-source project to greatly improve the experience of the users, of the devs and make open-source a reaaly viable options to mainstream proprietary solutions
