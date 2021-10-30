@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://github.com/O-Schell/" target="_blank" rel="norefe
 </h3>
 
 <h1 align="center">
-<a href="Open-Source-Hub.github.io" target="_blank" rel="noreferrer">Open Source Hub  !</a>
+<a href="https://Open-Source-Hub.github.io" target="_blank" rel="noreferrer">Open Source Hub  !</a>
 </h1> 
 <h4 align="center">
 the central hub of open source !
