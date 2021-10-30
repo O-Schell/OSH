@@ -1,5 +1,7 @@
 # OSH
 
+<img width=”200" height=”200" source="https://github.com/O-Schell/OSH/blob/main/Ressources/OSH.jpg" alt="O S H Banner">
+
 ## Origin
 The idea of the "Open Source Hub" (OSH) came to me after I realised that many really good ideas/project were deeply buried and/or underused.
 So I decided to built something...
