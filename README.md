@@ -16,7 +16,7 @@ the central hub of open source !
 ### Idea
 The main idea: bring together open source to build the best environnement for users and devs
 The method: 
-- Create a network[^1] of strong links (integrations, links, etc...) between already existing and popular projects to encourage users to use these projects and facilate the life of those who already use them
+- Create a network of strong links (integrations, links, etc...) between already existing and popular projects to encourage users to use these projects and facilate the life of those who already use them
 - Bring to spotlight creative & ingenious active projects burried deep. Supporting & integrating them into the network
 - Make a hub system to provide a place with all the informations/data/links/etc on  
 
